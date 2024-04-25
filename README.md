@@ -1,7 +1,7 @@
 
 # Design Token [ 📣 Release Note ](https://www.figma.com/file/YMlHvGSiV4JbEmkqpkvou1/Design-system?type=design&node-id=4223-3362&mode=design)
 
-hịhkhj
+Gitlab
 - [Merry](https://gitlab.ugaming.io/marketplace/merry)
 - [Athena](https://gitlab.com/athena20/frontend/design-token)
 
