@@ -1,0 +1,390 @@
+{
+  "effect": {
+    "shadow": {
+      "extra small": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 14,
+          "color": "#0000000f",
+          "offsetX": 0,
+          "offsetY": 2,
+          "spread": 0
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:21eede2ace76169806b6cc92367da2dbcfc4bee6,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "small": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 24,
+          "color": "#0000000a",
+          "offsetX": 0,
+          "offsetY": 12,
+          "spread": 10
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:cb711665799295b32a7c524b21d58a641671faad,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "medium": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 32,
+          "color": "#00000014",
+          "offsetX": 0,
+          "offsetY": 16,
+          "spread": 4
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:4a618a5ad862df6a5be7c331ab35dff69812694a,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "large": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 40,
+          "color": "#0000001f",
+          "offsetX": 0,
+          "offsetY": 16,
+          "spread": 8
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ef1b8f01e79aa4545010b1aa90ee476b624202ef,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "extra large": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 48,
+          "color": "#00000029",
+          "offsetX": 0,
+          "offsetY": 24,
+          "spread": 8
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:c98b9522b6d0cc8a5a4ee80ee1d6289ba3061bf0,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "none": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 0,
+          "color": "#0000000f",
+          "offsetX": 0,
+          "offsetY": 0,
+          "spread": 0
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f59435c2e17c404c494b28a5a34bccd0edd078ac,",
+            "exportKey": "effect"
+          }
+        }
+      }
+    },
+    "shadow up": {
+      "extra small": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 14,
+          "color": "#0000000f",
+          "offsetX": 0,
+          "offsetY": -2,
+          "spread": 0
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a1e8b2f2c42f091b9e9beb0135bbad93fc26c330,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "small": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 24,
+          "color": "#0000000a",
+          "offsetX": 0,
+          "offsetY": -12,
+          "spread": 10
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:5f31e622c8acba5a9c6b044a5a3e5c7d85854e6e,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "medium": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 32,
+          "color": "#00000014",
+          "offsetX": 0,
+          "offsetY": -16,
+          "spread": 4
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:df53a44482e99df4c285576f2c91fb1c3d14df99,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "large": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 40,
+          "color": "#0000001f",
+          "offsetX": 0,
+          "offsetY": -16,
+          "spread": 8
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:d4ffcc85b898b8abbb7235273bf9ba86d99a63b4,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "extra large": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 48,
+          "color": "#00000029",
+          "offsetX": 0,
+          "offsetY": -24,
+          "spread": 8
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:0786cbdcb55c3e81a0b5a6399af7941069ec45cc,",
+            "exportKey": "effect"
+          }
+        }
+      }
+    },
+    "shadow left": {
+      "extra small": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 14,
+          "color": "#0000000f",
+          "offsetX": -2,
+          "offsetY": 0,
+          "spread": 0
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:9b09f589033189e9257f0a54fae42efe51db4b22,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "small": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 24,
+          "color": "#0000000a",
+          "offsetX": -12,
+          "offsetY": 0,
+          "spread": 10
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:8d809091e2c08917a25398978de1b7b7832693d4,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "medium": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 32,
+          "color": "#00000014",
+          "offsetX": -16,
+          "offsetY": 0,
+          "spread": 4
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:7d03d4dcff0501567aeb84a03d714db2becac86a,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "large": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 40,
+          "color": "#0000001f",
+          "offsetX": -16,
+          "offsetY": 0,
+          "spread": 8
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:8242a240ba2e8c4896350161273bd784f1266c1f,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "extra large": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 48,
+          "color": "#00000029",
+          "offsetX": -24,
+          "offsetY": 0,
+          "spread": 8
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:daeb56ef14553830db119a776edd86c05ca35a44,",
+            "exportKey": "effect"
+          }
+        }
+      }
+    },
+    "shadow right": {
+      "extra small": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 14,
+          "color": "#0000000f",
+          "offsetX": 2,
+          "offsetY": 0,
+          "spread": 0
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:55cfa9963ca35c78ee40c1f9c47e1632f8722f58,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "small": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 24,
+          "color": "#0000000a",
+          "offsetX": 12,
+          "offsetY": 0,
+          "spread": 10
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:edd38448f92fa6b451d922e6111aa0b5217728b0,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "medium": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 32,
+          "color": "#00000014",
+          "offsetX": 16,
+          "offsetY": 0,
+          "spread": 4
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:910005766cdd323b2597f43860be02a59e3a8863,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "large": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 40,
+          "color": "#0000001f",
+          "offsetX": 16,
+          "offsetY": 0,
+          "spread": 8
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ae6ff9af0c1b3b08d25c9bd8bec7d49ed392f560,",
+            "exportKey": "effect"
+          }
+        }
+      },
+      "extra large": {
+        "description": null,
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 48,
+          "color": "#00000029",
+          "offsetX": 24,
+          "offsetY": 0,
+          "spread": 8
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:85c349a2f8e666be1d42257e94780e8550ac6ce6,",
+            "exportKey": "effect"
+          }
+        }
+      }
+    }
+  }
+}
